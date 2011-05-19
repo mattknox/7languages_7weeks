@@ -11,3 +11,5 @@ lamborghini := Car clone
 
 lamborghini type = Vehicle
 # lamborghini type => Vehicle
+# confusingly, lamborghini still has Car's methods:
+lamborghini wheels # => 4
